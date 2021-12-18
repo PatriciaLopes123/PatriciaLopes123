@@ -1,4 +1,4 @@
-- 👋 Olá, O meu nome é Patrícia Lopes
+- 👋 Olá, o meu nome é Patrícia Lopes
 - 👀 Atualmente estou aprendendo Linguagem de Programação em Python
 
 <!---
